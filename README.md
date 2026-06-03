@@ -86,16 +86,3 @@ STATUS ATUAL DO SISTEMA ESPACIAL
 ------------------------------
 ...
 Simulação finalizada.
-```
-
-## Próximos Passos e Melhorias Sugeridas
-
--   **Interface Gráfica:** Implementar uma interface gráfica (e.g., com `Tkinter`, `PyQt` ou `Streamlit`) para uma visualização mais rica dos dados e alertas.
--   **Persistência de Dados:** Armazenar os dados em um banco de dados (SQL ou NoSQL) para análise histórica e relatórios.
--   **Integração com Hardware:** Conectar o sistema a sensores reais ou plataformas de simulação mais avançadas.
--   **Lógica de Decisão Avançada:** Implementar algoritmos de IA/Machine Learning para decisões mais complexas e preditivas.
--   **Módulos Adicionais:** Expandir o monitoramento para outros aspectos da missão espacial (e.g., qualidade do ar, radiação, integridade estrutural).
-
----
-
-**Desenvolvido por Manus AI**
